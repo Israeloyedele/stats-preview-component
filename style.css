@@ -1,3 +1,6 @@
+body{
+    background-color: #090b1a;
+}
 #container {
     background-color: #090b1a;
     display: flex;
